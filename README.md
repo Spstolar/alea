@@ -18,6 +18,8 @@ Usage instructions go here.
 
 ## Development
 
+When you add `music21` it will create `~/.music21rc`. It is convenient to add the path to MuseScore4.exe to the `midiPath` XML element. This way you can immediately launch a result without having to manually move files around and select it from the MS4 browser. See [this chapter](https://web.mit.edu/music21/doc/usersGuide/usersGuide_24_environment.html) for more.
+
 To contribute to this library, first checkout the code. Then create a new virtual environment:
 
     cd alea
