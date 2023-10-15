@@ -11,4 +11,4 @@ dist
 build
 
 nbs/
-!nbs/Chord Basics.ipynb
+!nbs/Example-*.ipynb
