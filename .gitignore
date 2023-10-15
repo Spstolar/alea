@@ -10,5 +10,5 @@ venv
 dist
 build
 
-nbs/
-!/nbs/Example-*.ipynb
+nbs/*
+!nbs/examples
