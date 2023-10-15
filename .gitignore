@@ -11,4 +11,4 @@ dist
 build
 
 nbs/
-!nbs/Example-*.ipynb
+!/nbs/Example-*.ipynb
