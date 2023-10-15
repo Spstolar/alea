@@ -1,0 +1,26 @@
+<settings encoding="utf-8">
+  <preference name="autoDownload" value="allow" />
+  <preference name="braillePath" />
+  <preference name="debug" value="0" />
+  <preference name="directoryScratch" />
+  <preference name="graphicsPath" value="/usr/bin/xdg-open" />
+  <preference name="old-ipythonShowFormat" value="ipython.musicxml.png" />
+  <preference name="ipythonShowFormat" value="musicxml" />
+  <preference name="lilypondBackend" value="ps" />
+  <preference name="lilypondFormat" value="pdf" />
+  <preference name="lilypondPath" value="/usr/bin/lilypond" />
+  <preference name="lilypondVersion" />
+  <localCorporaSettings />
+  <localCorpusSettings />
+  <preference name="manualCoreCorpusPath" />
+  <preference name="midiPath" value="/mnt/c/Program Files/MuseScore 4/bin/MuseScore4.exe"/>
+  <preference name="musescoreDirectPNGPath" value="/mnt/c/Program Files/MuseScore 4/bin/MuseScore4.exe"/>
+  <preference name="musicxmlPath" value="/mnt/c/Program Files/MuseScore 4/bin/MuseScore4.exe"/>
+  <preference name="pdfPath" value="/usr/bin/xdg-open" />
+  <preference name="showFormat" value="musicxml" />
+  <preference name="vectorPath" />
+  <preference name="warnings" value="1" />
+  <preference name="writeFormat" value="musicxml" />
+  <preference name="old-musescoreDirectPNGPath" value="/usr/bin/mscore3" />
+  <preference name="old-musicxmlPath" value="/usr/bin/mscore3" />
+  </settings>

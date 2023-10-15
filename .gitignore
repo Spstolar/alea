@@ -9,3 +9,6 @@ venv
 .DS_Store
 dist
 build
+
+nbs/
+!nbs/Chord Basics.ipynb
