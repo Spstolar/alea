@@ -12,3 +12,4 @@ build
 
 nbs/*
 !nbs/examples
+nbs/examples/.ipynb_checkpoints
