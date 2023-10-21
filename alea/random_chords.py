@@ -26,7 +26,7 @@ def random_major_chord():
 
 
 class ChordCollection:
-    def __init__(self, num_chords, flavor) -> None:
+    def __init__(self, num_chords, flavor="major") -> None:
         if flavor == "major":
             self.chords = [random_major_chord() for _ in range(num_chords)]
         else:
