@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 alea = {extras = ["test"], file = ".", editable = true}
 jupyterlab = "*"
+music21 = "*"
 
 [dev-packages]
 
